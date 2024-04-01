@@ -1,0 +1,10 @@
+Studi Kasus:
+Sebuah warung makan kecil menjual lauk pauk sederhana seperti tempe orek.
+Dan ingin membuat program sederhana untuk menghitung total harga belanjaan pelanggan.
+
+Identifikasi Masalah:
+       1. Sulitnya menghitung total harga belanjaan secara manual.
+       2. Potensi kesalahan dalam perhitungan harga.
+
+
+Penyelesaian:
